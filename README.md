@@ -8,20 +8,6 @@ The environment contains a Windows Domain Controller, a domain-joined Windows wo
 
 **Note:** This lab is isolated from the main network and is intended only for authorized cybersecurity training.
 
-## Lab Architecture
-
-| Machine | Role | IP Address |
-|---|---|---|
-| `DC01` | Domain Controller | `10.0.0.10` |
-| `WS01` | Domain Workstation | `10.0.0.20` |
-| `KALI` | Penetration Testing Machine | `10.0.0.50` |
-
-**Domain:** `adlab.local`
-
-All systems communicate through an isolated virtual LAN segment, keeping the intentionally vulnerable environment separated from the main network.
-
----
-
 ## Active Directory Structure
 
 The domain contains dedicated Organizational Units for:
