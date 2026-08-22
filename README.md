@@ -48,6 +48,8 @@ The domain contains dedicated Organizational Units for:
 - `Unnecessary remote management access`
 - `Weak passwords`
 
+Detailed explanations are available in [`Vulnerabilities.md`](Vulnerabilities.md).
+
 # Attack Scenario
 
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/6c83a82d-fd84-4ac5-b891-63ab65e3c68f" />
