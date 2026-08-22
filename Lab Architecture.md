@@ -1,4 +1,4 @@
-**AD Attack Lab Architecture**
+# AD Attack Lab Architecture 
 
 All systems are connected through an isolated virtual network.
 The lab environment is isolated from the main network by placing all virtual machines on a dedicated LAN segment using the 10.0.0.0/24 subnet.
