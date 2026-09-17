@@ -1,6 +1,6 @@
 # Vulnerable Active Directory Lab
 
-**Overview**
+## Overview 
 
 This project is a deliberately vulnerable Microsoft Active Directory lab built for penetration-testing and red-team practice.
 
@@ -35,8 +35,8 @@ The domain contains dedicated Organizational Units for:
 - `backupsvc`
 - `da_admin`
 
-# Intentional Vulnerabilities
-  The environment has following vulnerabilities
+## Intentional Vulnerabilities
+The environment has following vulnerabilities
 
 - `Weak Kerberoastable service account`
 - `Excessive group membership`
@@ -47,11 +47,11 @@ The domain contains dedicated Organizational Units for:
 
 Detailed explanations are available in [View intentional vulnerabilities](04-Intentional-Vulnerabilities.md).
 
-# Attack Scenario
+## Attack Scenario
 
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/6c83a82d-fd84-4ac5-b891-63ab65e3c68f" />
 
-# Disclaimer
+## Disclaimer
 
 This project is intended strictly for educational purposes and authorized security testing.
 
