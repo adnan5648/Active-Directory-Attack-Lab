@@ -34,7 +34,7 @@ The domain contains dedicated Organizational Units for:
 - `Unnecessary remote management access`
 - `Weak passwords`
 
-Detailed explanations are available in [`Vulnerabilities.md`](Vulnerabilities.md).
+Detailed explanations are available in [View intentional vulnerabilities](04-Intentional-Vulnerabilities.md).
 
 # Attack Scenario
 
