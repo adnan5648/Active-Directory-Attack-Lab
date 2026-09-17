@@ -8,6 +8,17 @@ The environment contains a Windows Domain Controller, a domain-joined Windows wo
 
 **Note:** This lab is isolated from the main network and is intended only for authorized cybersecurity training.
 
+## Project Documentation
+
+- [AD Server Setup](01-AD-Server-Setup.md)
+- [Windows 11 Setup](02-Windows-11-Setup.md)
+- [Attack Simulation](03-Attack-Simulation.md)
+- [Intentional Misconfigurations](04-Intentional-Vulnerabilities.md)
+- [MITRE ATT&CK Mapping](MITRE/Mapping.md)
+- [Command Reference](Commands/)
+- [Lab Architecture](Lab%20Architecture/)
+
+  
 ## Active Directory Structure
 
 The domain contains dedicated Organizational Units for:
